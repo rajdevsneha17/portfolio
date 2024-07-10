@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import Resume from "../assets/Resume(1).pdf"
+import Resume from "../assets/Resume_alt.pdf"
 const Navbar = () => {
   return (
     <div>
